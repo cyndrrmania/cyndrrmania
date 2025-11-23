@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <a href="https://cyndrrmania.straw.page" style="text-decoration: none; margin: 0 10px;">straw</a>
-  <a href="https://cyndrrmania.atabook.org" style="text-decoration: none; margin: 0 10px;">ata</a>
+  <a href="https://cyndrrmania.straw.page" style="text-decoration: none; margin: 0 10px;">straw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cyndrrmania.atabook.org" style="text-decoration: none; margin: 0 10px;">ata</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@cyndrrmania" style="text-decoration: none; margin: 0 10px;">prns</a>
 </p>
 
